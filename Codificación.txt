@@ -7,3 +7,5 @@ nombre = Buitrago Alex
 Ficha = 2125998
 
 fecha = 26/05/2023
+
+Cedula = 1098828974
