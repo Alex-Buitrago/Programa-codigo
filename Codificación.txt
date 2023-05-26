@@ -1,0 +1,3 @@
+//Aquí vendria el codigo de nuestro proyecto
+
+Codigo = num + log
